@@ -1,0 +1,44 @@
+*__pycache__
+*_cache
+*.vscode
+# no backup files
+*~*
+# no ipynb checkpoints
+*.ipynb_checkpoints*
+# no generated html files
+*docs/_build/*
+# no tmp files
+tmp/*
+# ---- sensible folders ----
+*admin_notes*
+*admin*
+*notes*
+Projects/*
+lectures/*
+tex/
+# ---- sensible files ----
+*odp
+*.xcf
+*README.pdf*
+!README.md
+# ---- exercises that are not mine ----
+Ex1-machine_learning_problems/
+*Ex2_INF264_2022_polynomial_regression_2D*
+Ex3-decision_tree/
+INF264-H22-Ex5-Kernel_trick_Solutions.pdf
+# Ex 8
+# ---
+INF264-H22-Ex8.pdf
+shelter_data.zip
+Solution_Ex8_INF264_2021_fairness.ipynb
+# ---
+Hw2-linear_logistic_regression/
+svm_data_3.csv
+INF264-H22-HW4-Solutions.pdf
+Hw5_INF264_2022_svm-solution.ipynb
+Hw7-dimensionality_reduction/
+Hw8-Bayesian_network/
+Python_crash_course/
+
+
+
